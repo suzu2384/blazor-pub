@@ -1,6 +1,7 @@
 ﻿[
   {
     "name": "5.11 Tactical",
+    "signature": "5_11_tactical",
     "core": "defense",
     "effects": [
       "HP +30.0%",
@@ -10,6 +11,7 @@
   },
   {
     "name": "アルプスサミット・アーマメント",
+    "signature": "alps_summit_armaments",
     "core": "utility",
     "effects": [
       "スキル修復 +18.0%",
