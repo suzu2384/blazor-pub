@@ -21,7 +21,7 @@
   },
   {
     "name": "ペトロフ・ディフェンス・グループ",
-    "signature": "alps_summit_armaments",
+    "signature": "petrov_defense_group",
     "core": "offense",
     "effects": [
       "LMGダメージ +15.0%",
@@ -31,7 +31,7 @@
   },
   {
     "name": "アイラルディホールディング",
-    "signature": "alps_summit_armaments",
+    "signature": "airaldi_holdings",
     "core": "offense",
     "effects": [
       "マークスマンライフルダメージ +10.0%",
@@ -41,7 +41,7 @@
   },
   {
     "name": "フェンリスグループ社",
-    "signature": "alps_summit_armaments",
+    "signature": "fenris_group_ab",
     "core": "offense",
     "effects": [
       "アサルトライフルダメージ +10.0%",
@@ -51,7 +51,7 @@
   },
   {
     "name": "ワイバーンウェア",
-    "signature": "alps_summit_armaments",
+    "signature": "wyvern_wear",
     "core": "utility",
     "effects": [
       "スキルダメージ +8.0%",
@@ -61,7 +61,7 @@
   },
   {
     "name": "ゴラン・ギア",
-    "signature": "alps_summit_armaments",
+    "signature": "golan_gear_ltd",
     "core": "defense",
     "effects": [
       "ステータス効果 +10.0%",
@@ -71,7 +71,7 @@
   },
   {
     "name": "ギラ・ガード",
-    "signature": "alps_summit_armaments",
+    "signature": "gila_guard",
     "core": "defense",
     "effects": [
       "合計アーマー +5.0%",
@@ -81,7 +81,7 @@
   },
   {
     "name": "リヒター＆カイザー社",
-    "signature": "alps_summit_armaments",
+    "signature": "richter_and_kaiser_gmbh",
     "core": "utility",
     "effects": [
       "修復量 +15.0%",
@@ -91,7 +91,7 @@
   },
   {
     "name": "ヤールギア",
-    "signature": "alps_summit_armaments",
+    "signature": "yaahl_gear",
     "core": "defense",
     "effects": [
       "状態異常耐性 +10.0%",
@@ -101,7 +101,7 @@
   },
   {
     "name": "チャイナ・ライトインダストリー社",
-    "signature": "alps_summit_armaments",
+    "signature": "china_light_industries_corporation",
     "core": "utility",
     "effects": [
       "爆薬ダメージ +15.0%",
@@ -111,7 +111,7 @@
   },
   {
     "name": "オーバーロード・アーマメント",
-    "signature": "alps_summit_armaments",
+    "signature": "overlord_armaments",
     "core": "offense",
     "effects": [
       "ライフルダメージ +10.0%",
@@ -121,7 +121,7 @@
   },
   {
     "name": "プロビデンスディフェンス",
-    "signature": "alps_summit_armaments",
+    "signature": "providence_defense",
     "core": "offense",
     "effects": [
       "ヘッドショットダメージ上昇 +13.0%",
@@ -131,7 +131,7 @@
   },
   {
     "name": "バッジャー・タフ",
-    "signature": "alps_summit_armaments",
+    "signature": "badger_tuff",
     "core": "defense",
     "effects": [
       "ショットガンダメージ +10.0%",
@@ -141,7 +141,7 @@
   },
   {
     "name": "ダグラス＆ハーディング",
-    "signature": "alps_summit_armaments",
+    "signature": "douglas_and_harding",
     "core": "offense",
     "effects": [
       "ピストルダメージ +20.0%",
@@ -151,7 +151,7 @@
   },
   {
     "name": "チェスカ・ヴィーロバ社",
-    "signature": "alps_summit_armaments",
+    "signature": "ceska_vyroba_s_r_o_",
     "core": "offense",
     "effects": [
       "クリティカル率 +8.0%",
@@ -161,7 +161,7 @@
   },
   {
     "name": "グルーポソンブラ社",
-    "signature": "alps_summit_armaments",
+    "signature": "grupo_sombra_s_a_",
     "core": "offense",
     "effects": [
       "クリティカルダメージ +13.0%",
@@ -171,7 +171,7 @@
   },
   {
     "name": "ソコロフ社",
-    "signature": "alps_summit_armaments",
+    "signature": "sokolov_concern",
     "core": "offense",
     "effects": [
       "SMGダメージ +10.0%",
@@ -181,7 +181,7 @@
   },
   {
     "name": "ハナウコーポレーション",
-    "signature": "alps_summit_armaments",
+    "signature": "hana_u_corporation",
     "core": "utility",
     "effects": [
       "スキルヘイスト +10.0%",
@@ -191,7 +191,7 @@
   },
   {
     "name": "ムラカミインダストリーズ",
-    "signature": "alps_summit_armaments",
+    "signature": "murakami_industries",
     "core": "utility",
     "effects": [
       "スキル持続時間 +15.0%",
@@ -201,7 +201,7 @@
   },
   {
     "name": "ウォーカー・ハリス社",
-    "signature": "alps_summit_armaments",
+    "signature": "walker__harris_and_co_",
     "core": "offense",
     "effects": [
       "武器ダメージ +5.0%",
@@ -211,7 +211,7 @@
   },
   {
     "name": "ベルストーンアーマリー",
-    "signature": "alps_summit_armaments",
+    "signature": "belstone_armory",
     "core": "defense",
     "effects": [
       "アーマー回復 +1.0%",
@@ -221,7 +221,7 @@
   },
   {
     "name": "エンプレス・インターナショナル",
-    "signature": "alps_summit_armaments",
+    "signature": "empress_international",
     "core": "utility",
     "effects": [
       "スキルHP +10.0%",
@@ -231,7 +231,7 @@
   },
   {
     "name": "ウジーナゲティカ",
-    "signature": "alps_summit_armaments",
+    "signature": "uzina_getica",
     "core": "defense",
     "effects": [
       "合計アーマー +5.0%",
@@ -241,7 +241,7 @@
   },
   {
     "name": "ブラソス・デ・アルカブース",
-    "signature": "alps_summit_armaments",
+    "signature": "brazos_de_arcabuz",
     "core": "defense",
     "effects": [
       "スキルヘイスト +10.0%",
@@ -251,7 +251,7 @@
   },
   {
     "name": "ハプスブルクガード",
-    "signature": "alps_summit_armaments",
+    "signature": "habsburg_guard",
     "core": "defense",
     "effects": [
       "ヘッドショットダメージ上昇 +13.0%",
@@ -261,7 +261,7 @@
   },
   {
     "name": "エレクトリック",
-    "signature": "alps_summit_armaments",
+    "signature": "electrique",
     "core": "utility",
     "effects": [
       "ステータス効果 +10.0%",
@@ -271,7 +271,7 @@
   },
   {
     "name": "冷漠",
-    "signature": "alps_summit_armaments",
+    "signature": "lengmo",
     "core": "defense",
     "effects": [
       "爆発物耐性 +20.0%",
@@ -281,7 +281,7 @@
   },
   {
     "name": "パリセイドスチールワーク",
-    "signature": "alps_summit_armaments",
+    "signature": "palisade_steelworks",
     "core": "defense",
     "effects": [
       "キルによるアーマー +10.0%",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Zwiadowka Sp. z o.o.",
-    "signature": "alps_summit_armaments",
+    "signature": "zwiadowka_sp__z_o_o_",
     "core": "offense",
     "effects": [
       "装弾数 +15.0%",
@@ -301,7 +301,7 @@
   },
   {
     "name": "レガトゥス S.p.A",
-    "signature": "alps_summit_armaments",
+    "signature": "legatus_s_p_a",
     "core": "offense",
     "effects": [
       "切り替え速度 +30.0%",
