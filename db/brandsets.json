@@ -1,312 +1,312 @@
 ﻿[
   {
-    "name": "5.11 Tactical",
-    "signature": "5_11_tactical",
-    "core": "defense",
-    "effects": [
-      "HP +30.0%",
-      "修復量 +30.0%",
-      "状態異常耐性 +30.0%"
-    ]
-  },
-  {
-    "name": "アルプスサミット・アーマメント",
-    "signature": "alps_summit_armaments",
+    "name": "エレクトリック",
+    "signature": "electrique",
     "core": "utility",
-    "effects": [
-      "スキル修復 +18.0%",
-      "スキル持続時間 +30.0%",
-      "スキルヘイスト +30.0%"
-    ]
-  },
-  {
-    "name": "ペトロフ・ディフェンス・グループ",
-    "signature": "petrov_defense_group",
-    "core": "offense",
-    "effects": [
-      "LMGダメージ +15.0%",
-      "武器ハンドリング +15.0%",
-      "弾薬数 +50.0%"
-    ]
-  },
-  {
-    "name": "アイラルディホールディング",
-    "signature": "airaldi_holdings",
-    "core": "offense",
-    "effects": [
-      "マークスマンライフルダメージ +10.0%",
-      "ヘッドショットダメージ上昇 +13.0%",
-      "アーマーダメージ +5.0%"
-    ]
-  },
-  {
-    "name": "フェンリスグループ社",
-    "signature": "fenris_group_ab",
-    "core": "offense",
-    "effects": [
-      "アサルトライフルダメージ +10.0%",
-      "リロード速度 +30.0%",
-      "安定性 +50.0%"
-    ]
-  },
-  {
-    "name": "ワイバーンウェア",
-    "signature": "wyvern_wear",
-    "core": "utility",
-    "effects": [
-      "スキルダメージ +8.0%",
-      "ステータス効果 +18.0%",
-      "スキル持続時間 +45.0%"
-    ]
-  },
-  {
-    "name": "ゴラン・ギア",
-    "signature": "golan_gear_ltd",
-    "core": "defense",
-    "effects": [
-      "ステータス効果 +10.0%",
-      "アーマー回復 +1.5%",
-      "合計アーマー +10.0%"
-    ]
-  },
-  {
-    "name": "ギラ・ガード",
-    "signature": "gila_guard",
-    "core": "defense",
-    "effects": [
-      "合計アーマー +5.0%",
-      "HP +60.0%",
-      "アーマー回復 +2.0%"
-    ]
-  },
-  {
-    "name": "リヒター＆カイザー社",
-    "signature": "richter_and_kaiser_gmbh",
-    "core": "utility",
-    "effects": [
-      "修復量 +15.0%",
-      "爆発物耐性 +25.0%",
-      "スキル修復 +40.0%"
-    ]
-  },
-  {
-    "name": "ヤールギア",
-    "signature": "yaahl_gear",
-    "core": "defense",
-    "effects": [
-      "状態異常耐性 +10.0%",
-      "武器ダメージ上昇 +10.0%",
-      "Pulse耐性 +40.0%"
-    ]
-  },
-  {
-    "name": "チャイナ・ライトインダストリー社",
-    "signature": "china_light_industries_corporation",
-    "core": "utility",
-    "effects": [
-      "爆薬ダメージ +15.0%",
-      "スキルヘイスト +20.0%",
-      "ステータス効果 +25.0%"
-    ]
-  },
-  {
-    "name": "オーバーロード・アーマメント",
-    "signature": "overlord_armaments",
-    "core": "offense",
-    "effects": [
-      "ライフルダメージ +10.0%",
-      "命中率 +30.0%",
-      "武器ハンドリング +30.0%"
-    ]
-  },
-  {
-    "name": "プロビデンスディフェンス",
-    "signature": "providence_defense",
-    "core": "offense",
-    "effects": [
-      "ヘッドショットダメージ上昇 +13.0%",
-      "クリティカル率 +8.0%",
-      "クリティカルダメージ +13.0%"
-    ]
-  },
-  {
-    "name": "バッジャー・タフ",
-    "signature": "badger_tuff",
-    "core": "defense",
-    "effects": [
-      "ショットガンダメージ +10.0%",
-      "合計アーマー +5.0%",
-      "キルによるアーマー +15.0%"
-    ]
-  },
-  {
-    "name": "ダグラス＆ハーディング",
-    "signature": "douglas_and_harding",
-    "core": "offense",
-    "effects": [
-      "ピストルダメージ +20.0%",
-      "安定性 +30.0%",
-      "命中率 +50.0%"
-    ]
-  },
-  {
-    "name": "チェスカ・ヴィーロバ社",
-    "signature": "ceska_vyroba_s_r_o_",
-    "core": "offense",
-    "effects": [
-      "クリティカル率 +8.0%",
-      "状態異常耐性 +20.0%",
-      "HP +90.0%"
-    ]
-  },
-  {
-    "name": "グルーポソンブラ社",
-    "signature": "grupo_sombra_s_a_",
-    "core": "offense",
-    "effects": [
-      "クリティカルダメージ +13.0%",
-      "爆薬ダメージ +20.0%",
-      "ヘッドショットダメージ上昇 +13.0%"
-    ]
-  },
-  {
-    "name": "ソコロフ社",
-    "signature": "sokolov_concern",
-    "core": "offense",
-    "effects": [
-      "SMGダメージ +10.0%",
-      "クリティカルダメージ +13.0%",
-      "クリティカル率 +8.0%"
-    ]
-  },
-  {
-    "name": "ハナウコーポレーション",
-    "signature": "hana_u_corporation",
-    "core": "utility",
-    "effects": [
-      "スキルヘイスト +10.0%",
-      "スキルダメージ +10.0%",
-      "武器ダメージ +15.0%"
-    ]
-  },
-  {
-    "name": "ムラカミインダストリーズ",
-    "signature": "murakami_industries",
-    "core": "utility",
-    "effects": [
-      "スキル持続時間 +15.0%",
-      "スキル修復 +35.0%",
-      "スキルダメージ +18.0%"
-    ]
-  },
-  {
-    "name": "ウォーカー・ハリス社",
-    "signature": "walker__harris_and_co_",
-    "core": "offense",
-    "effects": [
-      "武器ダメージ +5.0%",
-      "アーマーへのダメージ +5.0%",
-      "HPへのダメージ +10.0%"
-    ]
-  },
-  {
-    "name": "ベルストーンアーマリー",
-    "signature": "belstone_armory",
-    "core": "defense",
-    "effects": [
-      "アーマー回復 +1.0%",
-      "キルによるアーマー +10.0%",
-      "修復量 +45.0%"
-    ]
-  },
-  {
-    "name": "エンプレス・インターナショナル",
-    "signature": "empress_international",
-    "core": "utility",
-    "effects": [
-      "スキルHP +10.0%",
-      "スキルダメージ +10.0%",
-      "スキル効率 +8.0%"
-    ]
-  },
-  {
-    "name": "ウジーナゲティカ",
-    "signature": "uzina_getica",
-    "core": "defense",
-    "effects": [
-      "合計アーマー +5.0%",
-      "キルによるアーマー +10.0%",
-      "状態異常耐性 +30.0%"
-    ]
-  },
-  {
-    "name": "ブラソス・デ・アルカブース",
-    "signature": "brazos_de_arcabuz",
-    "core": "defense",
-    "effects": [
-      "スキルヘイスト +10.0%",
-      "スキルクラス +1",
-      "装弾数 +50.0%"
+    "attributes": [
+      [ "ステータス効果 +10.0%" ],
+      [ "ショック耐性 +20.0%" ],
+      [ "SMGダメージ +30.0%" ]
     ]
   },
   {
     "name": "ハプスブルクガード",
     "signature": "habsburg_guard",
     "core": "defense",
-    "effects": [
-      "ヘッドショットダメージ上昇 +13.0%",
-      "マークスマンライフルダメージ +20.0%",
-      "ステータス効果 +25.0%"
+    "attributes": [
+      [ "ヘッドショットダメージ上昇 +13.0%" ],
+      [ "マークスマンライフルダメージ +20.0%" ],
+      [ "ステータス効果 +25.0%" ]
     ]
   },
   {
-    "name": "エレクトリック",
-    "signature": "electrique",
+    "name": "ブラソス・デ・アルカブース",
+    "signature": "brazos_de_arcabuz",
+    "core": "defense",
+    "attributes": [
+      [ "スキルヘイスト +10.0%" ],
+      [ "スキルクラス +1" ],
+      [ "装弾数 +50.0%" ]
+    ]
+  },
+  {
+    "name": "ウジーナゲティカ",
+    "signature": "uzina_getica",
+    "core": "defense",
+    "attributes": [
+      [ "合計アーマー +5.0%" ],
+      [ "キルによるアーマー +10.0%" ],
+      [ "状態異常耐性 +30.0%" ]
+    ]
+  },
+  {
+    "name": "エンプレス・インターナショナル",
+    "signature": "empress_international",
     "core": "utility",
-    "effects": [
-      "ステータス効果 +10.0%",
-      "ショック耐性 +20.0%",
-      "SMGダメージ +30.0%"
+    "attributes": [
+      [ "スキルHP +10.0%" ],
+      [ "スキルダメージ +10.0%" ],
+      [ "スキル効率 +8.0%" ]
     ]
   },
   {
-    "name": "冷漠",
-    "signature": "lengmo",
+    "name": "ベルストーンアーマリー",
+    "signature": "belstone_armory",
     "core": "defense",
-    "effects": [
-      "爆発物耐性 +20.0%",
-      "スキルHP +20.0%",
-      "LMGダメージ +30.0%"
+    "attributes": [
+      [ "アーマー回復 +1.0%" ],
+      [ "キルによるアーマー +10.0%" ],
+      [ "修復量 +45.0%" ]
     ]
   },
   {
-    "name": "パリセイドスチールワーク",
-    "signature": "palisade_steelworks",
-    "core": "defense",
-    "effects": [
-      "キルによるアーマー +10.0%",
-      "HP +60.0%",
-      "スキルクラス +1"
-    ]
-  },
-  {
-    "name": "Zwiadowka Sp. z o.o.",
-    "signature": "zwiadowka_sp__z_o_o_",
+    "name": "ウォーカー・ハリス社",
+    "signature": "walker__harris_and_co_",
     "core": "offense",
-    "effects": [
-      "装弾数 +15.0%",
-      "ライフルダメージ +20.0%",
-      "武器ハンドリング +30.0%"
+    "attributes": [
+      [ "武器ダメージ上昇 +5.0%" ],
+      [ "アーマーへのダメージ +5.0%" ],
+      [ "HPへのダメージ +10.0%" ]
+    ]
+  },
+  {
+    "name": "ムラカミインダストリーズ",
+    "signature": "murakami_industries",
+    "core": "utility",
+    "attributes": [
+      [ "スキル持続時間 +15.0%" ],
+      [ "スキル修復 +35.0%" ],
+      [ "スキルダメージ +18.0%" ]
+    ]
+  },
+  {
+    "name": "ハナウコーポレーション",
+    "signature": "hana_u_corporation",
+    "core": "utility",
+    "attributes": [
+      [ "スキルヘイスト +10.0%" ],
+      [ "スキルダメージ +10.0%" ],
+      [ "武器ダメージ上昇 +15.0%" ]
+    ]
+  },
+  {
+    "name": "ソコロフ社",
+    "signature": "sokolov_concern",
+    "core": "offense",
+    "attributes": [
+      [ "SMGダメージ +10.0%" ],
+      [ "クリティカルダメージ +13.0%" ],
+      [ "クリティカル率 +8.0%" ]
+    ]
+  },
+  {
+    "name": "グルーポソンブラ社",
+    "signature": "grupo_sombra_s_a_",
+    "core": "offense",
+    "attributes": [
+      [ "クリティカルダメージ +13.0%" ],
+      [ "爆薬ダメージ +20.0%" ],
+      [ "ヘッドショットダメージ上昇 +13.0%" ]
+    ]
+  },
+  {
+    "name": "チェスカ・ヴィーロバ社",
+    "signature": "ceska_vyroba_s_r_o_",
+    "core": "offense",
+    "attributes": [
+      [ "クリティカル率 +8.0%" ],
+      [ "状態異常耐性 +20.0%" ],
+      [ "HP +90.0%" ]
+    ]
+  },
+  {
+    "name": "ダグラス＆ハーディング",
+    "signature": "douglas_and_harding",
+    "core": "offense",
+    "attributes": [
+      [ "ピストルダメージ +20.0%" ],
+      [ "安定性 +30.0%" ],
+      [ "命中率 +50.0%" ]
+    ]
+  },
+  {
+    "name": "バッジャー・タフ",
+    "signature": "badger_tuff",
+    "core": "defense",
+    "attributes": [
+      [ "ショットガンダメージ +10.0%" ],
+      [ "合計アーマー +5.0%" ],
+      [ "キルによるアーマー +15.0%" ]
+    ]
+  },
+  {
+    "name": "プロビデンスディフェンス",
+    "signature": "providence_defense",
+    "core": "offense",
+    "attributes": [
+      [ "ヘッドショットダメージ上昇 +13.0%" ],
+      [ "クリティカル率 +8.0%" ],
+      [ "クリティカルダメージ +13.0%" ]
+    ]
+  },
+  {
+    "name": "オーバーロード・アーマメント",
+    "signature": "overlord_armaments",
+    "core": "offense",
+    "attributes": [
+      [ "ライフルダメージ +10.0%" ],
+      [ "命中率 +30.0%" ],
+      [ "武器ハンドリング +30.0%" ]
+    ]
+  },
+  {
+    "name": "チャイナ・ライトインダストリー社",
+    "signature": "china_light_industries_corporation",
+    "core": "utility",
+    "attributes": [
+      [ "爆薬ダメージ +15.0%" ],
+      [ "スキルヘイスト +20.0%" ],
+      [ "ステータス効果 +25.0%" ]
+    ]
+  },
+  {
+    "name": "ヤールギア",
+    "signature": "yaahl_gear",
+    "core": "defense",
+    "attributes": [
+      [ "状態異常耐性 +10.0%" ],
+      [ "武器ダメージ上昇 +10.0%" ],
+      [ "Pulse耐性 +40.0%" ]
     ]
   },
   {
     "name": "レガトゥス S.p.A",
     "signature": "legatus_s_p_a",
     "core": "offense",
-    "effects": [
-      "切り替え速度 +30.0%",
-      "最適射程 +70.0%",
-      "武器ダメージ上昇 +15.0%"
+    "attributes": [
+      [ "切り替え速度 +30.0%" ],
+      [ "最適射程 +70.0%" ],
+      [ "武器ダメージ上昇 +15.0%" ]
+    ]
+  },
+  {
+    "name": "リヒター＆カイザー社",
+    "signature": "richter_and_kaiser_gmbh",
+    "core": "utility",
+    "attributes": [
+      [ "修復量 +15.0%" ],
+      [ "爆発物耐性 +25.0%" ],
+      [ "スキル修復 +40.0%" ]
+    ]
+  },
+  {
+    "name": "Zwiadowka Sp. z o.o.",
+    "signature": "zwiadowka_sp__z_o_o_",
+    "core": "offense",
+    "attributes": [
+      [ "装弾数 +15.0%" ],
+      [ "ライフルダメージ +20.0%" ],
+      [ "武器ハンドリング +30.0%" ]
+    ]
+  },
+  {
+    "name": "ギラ・ガード",
+    "signature": "gila_guard",
+    "core": "defense",
+    "attributes": [
+      [ "合計アーマー +5.0%" ],
+      [ "HP +60.0%" ],
+      [ "アーマー回復 +2.0%" ]
+    ]
+  },
+  {
+    "name": "パリセイドスチールワーク",
+    "signature": "palisade_steelworks",
+    "core": "defense",
+    "attributes": [
+      [ "キルによるアーマー +10.0%" ],
+      [ "HP +60.0%" ],
+      [ "スキルクラス +1" ]
+    ]
+  },
+  {
+    "name": "ゴラン・ギア",
+    "signature": "golan_gear_ltd",
+    "core": "defense",
+    "attributes": [
+      [ "ステータス効果 +10.0%" ],
+      [ "アーマー回復 +1.5%" ],
+      [ "合計アーマー +10.0%" ]
+    ]
+  },
+  {
+    "name": "冷漠",
+    "signature": "lengmo",
+    "core": "defense",
+    "attributes": [
+      [ "爆発物耐性 +20.0%" ],
+      [ "スキルHP +20.0%" ],
+      [ "LMGダメージ +30.0%" ]
+    ]
+  },
+  {
+    "name": "ワイバーンウェア",
+    "signature": "wyvern_wear",
+    "core": "utility",
+    "attributes": [
+      [ "スキルダメージ +8.0%" ],
+      [ "ステータス効果 +18.0%" ],
+      [ "スキル持続時間 +45.0%" ]
+    ]
+  },
+  {
+    "name": "フェンリスグループ社",
+    "signature": "fenris_group_ab",
+    "core": "offense",
+    "attributes": [
+      [ "アサルトライフルダメージ +10.0%" ],
+      [ "リロード速度 +30.0%" ],
+      [ "安定性 +50.0%" ]
+    ]
+  },
+  {
+    "name": "アイラルディホールディング",
+    "signature": "airaldi_holdings",
+    "core": "offense",
+    "attributes": [
+      [ "マークスマンライフルダメージ +10.0%" ],
+      [ "ヘッドショットダメージ上昇 +13.0%" ],
+      [ "アーマーへのダメージ +5.0%" ]
+    ]
+  },
+  {
+    "name": "ペトロフ・ディフェンス・グループ",
+    "signature": "petrov_defense_group",
+    "core": "offense",
+    "attributes": [
+      [ "LMGダメージ +10.0%" ],
+      [ "武器ハンドリング +15.0%" ],
+      [ "弾薬数 +50.0%" ]
+    ]
+  },
+  {
+    "name": "アルプスサミット・アーマメント",
+    "signature": "alps_summit_armaments",
+    "core": "utility",
+    "attributes": [
+      [ "スキル修復 +18.0%" ],
+      [ "スキル持続時間 +30.0%" ],
+      [ "スキルヘイスト +30.0%" ]
+    ]
+  },
+  {
+    "name": "5.11 Tactical",
+    "signature": "5_11_tactical",
+    "core": "defense",
+    "attributes": [
+      [ "HP +30.0%" ],
+      [ "修復量 +30.0%" ],
+      [ "状態異常耐性 +30.0%" ]
     ]
   }
 ]
