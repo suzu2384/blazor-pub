@@ -170,6 +170,16 @@
     ]
   },
   {
+    "name": "シャイニーモンキー装備",
+    "signature": "shiny_monkey_gear",
+    "core": "utility",
+    "attributes": [
+      [ "スキル持続時間 +15.0%" ],
+      [ "スキル効率 +5.0%" ],
+      [ "スキル修復 +52.0%" ]
+    ]
+  },
+  {
     "name": "ヤールギア",
     "signature": "yaahl_gear",
     "core": "defense",
