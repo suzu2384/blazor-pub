@@ -3,7 +3,7 @@
     "name": "ウシロプッシュ",
     "signature": "back_press",
     "core": "arms",
-    "url": "O9mEKgj7byw?si=GSOlKrlHT4AR9Kva",
+    "videoId": "O9mEKgj7byw",
     "attributes": [
       [ "脊柱起立筋" ],
       [ "上腕三頭筋" ]
@@ -13,7 +13,7 @@
     "name": "バンザイプッシュ",
     "signature": "overhead_press",
     "core": "arms",
-    "url": "yrMe4xwkgoI?si=tnVZUM-jet6YYZBy",
+    "videoId": "yrMe4xwkgoI",
     "attributes": [
       [ "三角筋" ]
     ]
@@ -22,7 +22,7 @@
     "name": "サゲテプッシュ",
     "signature": "front_press",
     "core": "arms",
-    "url": "aOQb6om_MKY?si=06d4fNlhXA7wjgOe",
+    "videoId": "aOQb6om_MKY",
     "attributes": [
       [ "大胸筋" ]
     ]
@@ -31,7 +31,7 @@
     "name": "リングアロー",
     "signature": "bow_pull",
     "core": "arms",
-    "url": "MHARnWrTCvY?si=JxdChMKWfbEMcSQi",
+    "videoId": "MHARnWrTCvY",
     "attributes": [
       [ "上腕三頭筋" ],
       [ "広背筋" ]
@@ -41,7 +41,7 @@
     "name": "カタニプッシュ",
     "signature": "shoulder_press",
     "core": "arms",
-    "url": "H295EQ6rHb8?si=HEjvcGMamHGs8Vko",
+    "videoId": "H295EQ6rHb8",
     "attributes": [
       [ "脊柱起立筋" ]
     ]
@@ -50,7 +50,7 @@
     "name": "トライセプス",
     "signature": "tricep_kickback",
     "core": "arms",
-    "url": "GTPTYY920bE?si=lfDgO26uTdUsNsAu",
+    "videoId": "GTPTYY920bE",
     "attributes": [
       [ "脊柱起立筋" ],
       [ "上腕三頭筋" ]
@@ -60,7 +60,7 @@
     "name": "スクワット",
     "signature": "squat",
     "core": "legs",
-    "url": "RQg61DvKFpM?si=vqmxArxRAfNgVQYI",
+    "videoId": "RQg61DvKFpM",
     "attributes": [
       [ "大腿四頭筋" ]
     ]
@@ -69,7 +69,7 @@
     "name": "ワイドスクワット",
     "signature": "wide_squat",
     "core": "legs",
-    "url": "h_P2kftZCZo?si=QhSUpc4nJmxaZLro",
+    "videoId": "h_P2kftZCZo",
     "attributes": [
       [ "大殿筋" ],
       [ "内転筋" ]
@@ -79,7 +79,7 @@
     "name": "バンザイスクワット",
     "signature": "overhead_squat",
     "core": "legs",
-    "url": "9m91BUaTppA?si=ubwH_5bmH2tXB11c",
+    "videoId": "9m91BUaTppA",
     "attributes": [
       [ "三角筋" ],
       [ "大殿筋" ]
@@ -89,7 +89,7 @@
     "name": "バンザイサイドベンド",
     "signature": "overhead_side_bend",
     "core": "abs",
-    "url": "a7dvZZpslu8?si=nTLGu_-QPsPZQ-Ot",
+    "videoId": "a7dvZZpslu8",
     "attributes": [
       [ "腹斜筋" ],
       [ "三角筋" ]
@@ -99,7 +99,7 @@
     "name": "バンザイツイスト",
     "signature": "overhead_lunge_twist",
     "core": "abs",
-    "url": "1MBqD-trWqk?si=Bn2RA-f3MkzeKVW2",
+    "videoId": "1MBqD-trWqk",
     "attributes": [
       [ "三角筋" ],
       [ "腹斜筋" ]
@@ -109,7 +109,7 @@
     "name": "ベントオーバー",
     "signature": "pendulum_bend",
     "core": "abs",
-    "url": "KQdHlgfH8c8?si=DqzQONOXn2ucFDa5",
+    "videoId": "KQdHlgfH8c8",
     "attributes": [
       [ "脊柱起立筋" ],
       [ "腹斜筋" ]
@@ -119,7 +119,7 @@
     "name": "バンザイモーニング",
     "signature": "overhead_bend",
     "core": "abs",
-    "url": "3BjBO3GwUbs?si=QMvM-lWPSOUY5E-1",
+    "videoId": "3BjBO3GwUbs",
     "attributes": [
       [ "脊柱起立筋" ]
     ]
@@ -128,7 +128,7 @@
     "name": "モモデプッシュ",
     "signature": "thigh_press",
     "core": "legs",
-    "url": "mQ7PHNGvB3Q?si=l1nXbI243hVhZYrY",
+    "videoId": "mQ7PHNGvB3Q",
     "attributes": [
       [ "内転筋" ]
     ]
@@ -137,7 +137,7 @@
     "name": "ニートゥーチェスト",
     "signature": "knee_to_chest",
     "core": "abs",
-    "url": "thV7NY7oE9U?si=NO0b0_pBbZ4w7Yrz",
+    "videoId": "thV7NY7oE9U",
     "attributes": [
       [ "腹直筋" ],
       [ "腸腰筋" ]
@@ -147,7 +147,7 @@
     "name": "マエニプッシュ",
     "signature": "seated_forward_press",
     "core": "abs",
-    "url": "16gQFB20cIA?si=nNoLxaR0fJ-wwJgG",
+    "videoId": "16gQFB20cIA",
     "attributes": [
       [ "腹直筋" ],
       [ "上腕三頭筋" ]
@@ -157,7 +157,7 @@
     "name": "ヒップリフト",
     "signature": "hip_lift",
     "core": "legs",
-    "url": "-xh5vsk6lH4?si=niyjHOgwQrDvPQmt",
+    "videoId": "-xh5vsk6lH4",
     "attributes": [
       [ "腹横筋" ],
       [ "ハムストリングス" ]
@@ -167,7 +167,7 @@
     "name": "プランク",
     "signature": "plank",
     "core": "abs",
-    "url": "aN221aCy1jo?si=vJmkAdrmkpiMclS7",
+    "videoId": "aN221aCy1jo",
     "attributes": [
       [ "腹横筋" ]
     ]
@@ -176,7 +176,7 @@
     "name": "レッグレイズ",
     "signature": "leg_raise",
     "core": "abs",
-    "url": "axC5WAr15d0?si=P3ZN6nZiYDvPqt70",
+    "videoId": "axC5WAr15d0",
     "attributes": [
       [ "腹直筋" ],
       [ "腸腰筋" ]
@@ -186,7 +186,7 @@
     "name": "アシパカパカ",
     "signature": "open_and_close_leg_raise",
     "core": "abs",
-    "url": "LqNf6I0vIQc?si=6nEuZyxto178ZALs",
+    "videoId": "LqNf6I0vIQc",
     "attributes": [
       [ "腹直筋" ],
       [ "内転筋" ]
@@ -196,7 +196,7 @@
     "name": "スワイショウ",
     "signature": "standing_twist",
     "core": "abs",
-    "url": "LqNf6I0vIQc?si=6nEuZyxto178ZALs",
+    "videoId": "LqNf6I0vIQc",
     "attributes": [
       [ "腹斜筋" ],
       [ "脊柱起立筋" ]
@@ -206,7 +206,7 @@
     "name": "バンザイコシフリ",
     "signature": "overhead_hip_shake",
     "core": "abs",
-    "url": "UXYvXyJ-naE?si=JcArhMYRHz51HFBN",
+    "videoId": "UXYvXyJ-naE",
     "attributes": [
       [ "腹斜筋" ],
       [ "腹横筋" ]
@@ -216,7 +216,7 @@
     "name": "アームツイスト",
     "signature": "overhead_arm_twist",
     "core": "arms",
-    "url": "njQR0k_v-VE?si=dMSzIbZIFoqi2h3a",
+    "videoId": "njQR0k_v-VE",
     "attributes": [
       [ "上腕三頭筋" ],
       [ "三角筋" ]
@@ -226,7 +226,7 @@
     "name": "グルグルアーム",
     "signature": "overhead_arm_spin",
     "core": "arms",
-    "url": "IAyYeFyfj_8?si=--_62EAnOYz0TCoO",
+    "videoId": "IAyYeFyfj_8",
     "attributes": [
       [ "三角筋" ],
       [ "上腕三頭筋" ]
@@ -236,7 +236,7 @@
     "name": "ロシアンツイスト",
     "signature": "russian_twist",
     "core": "abs",
-    "url": "798t-OPFVwk?si=CvJFmD9w3o_OA8xO",
+    "videoId": "798t-OPFVwk",
     "attributes": [
       [ "腹直筋" ],
       [ "腹斜筋" ]
@@ -246,7 +246,7 @@
     "name": "バタバタレッグ",
     "signature": "flutter_kick",
     "core": "abs",
-    "url": "jRuxP6AjBeU?si=XxPah4BZGU_OdEZ-",
+    "videoId": "jRuxP6AjBeU",
     "attributes": [
       [ "腸腰筋" ],
       [ "腹直筋" ]
@@ -256,7 +256,7 @@
     "name": "リングアゲサゲ",
     "signature": "seated_ring_raise",
     "core": "abs",
-    "url": "xyjPQSrbdB0?si=6H9bjk1H748XU5q7",
+    "videoId": "xyjPQSrbdB0",
     "attributes": [
       [ "腹直筋" ],
       [ "腸腰筋" ]
@@ -266,7 +266,7 @@
     "name": "マウンテンクライマー",
     "signature": "mountain_climber",
     "core": "legs",
-    "url": "hPE3S55dgFY?si=tONbOWWeMW3HP-AE",
+    "videoId": "hPE3S55dgFY",
     "attributes": [
       [ "腸腰筋" ],
       [ "上腕三頭筋" ]
@@ -276,7 +276,7 @@
     "name": "ハサミレッグ",
     "signature": "leg_scissors",
     "core": "abs",
-    "url": "dr5bmym7eAs?si=7Irg-z4vm4oMLog-",
+    "videoId": "dr5bmym7eAs",
     "attributes": [
       [ "腹直筋" ],
       [ "内転筋" ]
@@ -286,7 +286,7 @@
     "name": "モモアゲアゲ",
     "signature": "knee_lift",
     "core": "legs",
-    "url": "P97eFXShAOI?si=VwDE22H6V27sLD1j",
+    "videoId": "P97eFXShAOI",
     "attributes": [
       [ "大腿四頭筋" ],
       [ "腸腰筋" ]
@@ -296,7 +296,7 @@
     "name": "ステップアップ",
     "signature": "side_step",
     "core": "legs",
-    "url": "nHjZiQEO_Ng?si=aaxlTnFWnZHYVapT",
+    "videoId": "nHjZiQEO_Ng",
     "attributes": [
       [ "内転筋" ],
       [ "上腕三頭筋" ]
@@ -306,7 +306,7 @@
     "name": "アゲサゲコンボ",
     "signature": "ring_raise_combo",
     "core": "legs",
-    "url": "OcdzlIo00Tk?si=JQegK6jCsMNJgn9z",
+    "videoId": "OcdzlIo00Tk",
     "attributes": [
       [ "内転筋" ],
       [ "上腕三頭筋" ]
@@ -316,7 +316,7 @@
     "name": "モモアゲコンボ",
     "signature": "knee_lift_combo",
     "core": "legs",
-    "url": "bg0YXhZSgO8?si=VGnZ_T9_l8Boim-C",
+    "videoId": "bg0YXhZSgO8",
     "attributes": [
       [ "腸腰筋" ]
     ]
@@ -325,7 +325,7 @@
     "name": "椅子のポーズ",
     "signature": "chair_pose",
     "core": "yoga",
-    "url": "i3Z_Z89Gnbg?si=UCPrz3EUBllaMCQf",
+    "videoId": "i3Z_Z89Gnbg",
     "attributes": [
       [ "大腿四頭筋" ],
       [ "脊柱起立筋" ]
@@ -335,7 +335,7 @@
     "name": "立木のポーズ",
     "signature": "tree_pose",
     "core": "yoga",
-    "url": "s0CVrxIV_WI?si=S3iSUvLx_jzvO6qt",
+    "videoId": "s0CVrxIV_WI",
     "attributes": [
       [ "腹横筋" ],
       [ "脊柱起立筋" ]
@@ -345,7 +345,7 @@
     "name": "チョウツガイのポーズ",
     "signature": "hinge_pose",
     "core": "yoga",
-    "url": "xSKm9GoF04E?si=lEIxsg7ulK3DUVnd",
+    "videoId": "xSKm9GoF04E",
     "attributes": [
       [ "脊柱起立筋" ],
       [ "三角筋" ]
@@ -355,7 +355,7 @@
     "name": "ねじり体側のポーズ",
     "signature": "revolved_crescent_lunge_pose",
     "core": "yoga",
-    "url": "n2-85bZ1xFo?si=ULzoFC3f7jCn3UEf",
+    "videoId": "n2-85bZ1xFo",
     "attributes": [
       [ "腹斜筋" ],
       [ "脊柱起立筋" ]
@@ -365,7 +365,7 @@
     "name": "英雄1のポーズ",
     "signature": "warrior_i_pose",
     "core": "yoga",
-    "url": "4jtdz4h6PHk?si=cF4Jmc074rKf-tSZ",
+    "videoId": "4jtdz4h6PHk",
     "attributes": [
       [ "広背筋" ],
       [ "脊柱起立筋" ]
@@ -375,7 +375,7 @@
     "name": "英雄2のポーズ",
     "signature": "warrior_ii_pose",
     "core": "yoga",
-    "url": "5ntghaQyzH8?si=L3lFJH6FIzcx7zA4",
+    "videoId": "5ntghaQyzH8",
     "attributes": [
       [ "回旋筋腱板" ],
       [ "三角筋" ]
@@ -385,7 +385,7 @@
     "name": "英雄3のポーズ",
     "signature": "warrior_iii_pose",
     "core": "yoga",
-    "url": "Mjsa5Mgqjxc?si=2KA4pgIBS1njhexl",
+    "videoId": "Mjsa5Mgqjxc",
     "attributes": [
       [ "腸腰筋" ],
       [ "大殿筋" ]
@@ -395,7 +395,7 @@
     "name": "扇のポーズ",
     "signature": "fan_pose",
     "core": "yoga",
-    "url": "vu3e_hQvfEQ?si=56XqCjlPLam2fJr7",
+    "videoId": "vu3e_hQvfEQ",
     "attributes": [
       [ "腹斜筋" ],
       [ "脊柱起立筋" ]
@@ -405,7 +405,7 @@
     "name": "舟のポーズ",
     "signature": "boat_pose",
     "core": "yoga",
-    "url": "icy-kK_zxdk?si=XdvO95tCaJEYrR98",
+    "videoId": "icy-kK_zxdk",
     "attributes": [
       [ "腹直筋" ],
       [ "腸腰筋" ]
@@ -415,7 +415,7 @@
     "name": "折りたたむポーズ",
     "signature": "standing_forward_fold",
     "core": "yoga",
-    "url": "aclCqKkf7Pk?si=XkDuJRiASUJ7i5WE",
+    "videoId": "aclCqKkf7Pk",
     "attributes": [
       [ "脊柱起立筋" ],
       [ "ハムストリングス" ]
